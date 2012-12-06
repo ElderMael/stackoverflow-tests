@@ -1,4 +1,22 @@
+# Class files #
 *.class
+
+# Eclipse Files #
+*.project
+.settings/
+*.classpath
+*.springBeans
+target/
+
+# IntelliJ Idea #
+.idea/
+*.iml
+
+# Gradle #
+.gradle/
+
+# Subprojecs Builds #
+
 
 # Package Files #
 *.jar

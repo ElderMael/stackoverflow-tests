@@ -1,4 +1,6 @@
 stackoverflow-tests
 ===================
 
-stackoverflow questions tests and related stuff
+Tests for answers and questions from http://stackoverflow.com/
+
+All code licenced under LGPL
