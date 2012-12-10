@@ -11,5 +11,4 @@
         <property name="properties" ref="props" />
     </bean>
 
-
 </beans>
